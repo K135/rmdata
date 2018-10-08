@@ -6,9 +6,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://hjhj.com/images/back.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://hjhj.com/images/04-abraham-lincoln-quotes_58f1ac86e14eb-crop-u315.jpg</image:loc>
     </image:image>
     <image:image>
@@ -44,9 +41,6 @@
     <image:image>
       <image:loc>http://hjhj.com/images/quotation-helen-keller-the-best-and-most-beautiful-things-in-the-world-cannot-15-50-06.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://hjhj.com/images/webpnet-resizeimage%20(2).png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://hjhj.com/apj-quotes.html</loc>
@@ -73,7 +67,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://hjhj.com/untitled-18.html</loc>
+    <loc>http://hjhj.com/2.html</loc>
     <lastmod>2018-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -107,12 +101,6 @@
     <lastmod>2018-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://hjhj.com/images/back.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hjhj.com/images/webpnet-resizeimage%20(2).png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://hjhj.com/untitled-4.html</loc>
@@ -187,8 +175,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://hjhj.com/2.html</loc>
-    <lastmod>2018-10-07</lastmod>
+    <loc>http://hjhj.com/1.html</loc>
+    <lastmod>2018-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
