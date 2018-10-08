@@ -1,26 +1,26 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hjhj.com" resolutions="1x" timestamp="1538982030311">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hjhj.com" resolutions="1x" timestamp="1538982510347">
   <folder name="css">
     <file name="site_global.css" crc="343739609"/>
     <file name="master_b-master.css" crc="491528086" ref="2:1"/>
-    <file name="master_a-master.css" crc="4258671333" ref="apj-speeches:untitled-15:apj-quotes:untitled-4:untitled-10:untitled-16:untitled-11:untitled-5:untitled-17:untitled-12:untitled-6:untitled-13:untitled-7:apj-bio:untitled-14"/>
-    <file name="apj-speeches.css" crc="3872018763" ref="apj-speeches"/>
+    <file name="master_a-master.css" crc="3901180621" ref="apj-speeches:untitled-15:apj-quotes:untitled-4:untitled-10:untitled-16:untitled-11:untitled-5:untitled-17:untitled-12:untitled-6:untitled-13:untitled-7:apj-bio:untitled-14:index"/>
+    <file name="apj-speeches.css" crc="3951324822" ref="apj-speeches"/>
     <file name="untitled-3.css" crc="58371178" ref="untitled-3"/>
-    <file name="untitled-15.css" crc="535756777" ref="untitled-15"/>
-    <file name="apj-quotes.css" crc="198133905" ref="apj-quotes"/>
-    <file name="untitled-4.css" crc="535756777" ref="untitled-4"/>
-    <file name="untitled-10.css" crc="535756777" ref="untitled-10"/>
-    <file name="untitled-16.css" crc="535756777" ref="untitled-16"/>
+    <file name="untitled-15.css" crc="488104655" ref="untitled-15"/>
+    <file name="apj-quotes.css" crc="16008752" ref="apj-quotes"/>
+    <file name="untitled-4.css" crc="488104655" ref="untitled-4"/>
+    <file name="untitled-10.css" crc="488104655" ref="untitled-10"/>
+    <file name="untitled-16.css" crc="488104655" ref="untitled-16"/>
     <file name="2.css" crc="3778995114" ref="2"/>
-    <file name="untitled-11.css" crc="535756777" ref="untitled-11"/>
-    <file name="untitled-5.css" crc="535756777" ref="untitled-5"/>
-    <file name="untitled-17.css" crc="535756777" ref="untitled-17"/>
-    <file name="untitled-12.css" crc="535756777" ref="untitled-12"/>
-    <file name="untitled-6.css" crc="535756777" ref="untitled-6"/>
-    <file name="index.css" crc="218332538" ref="index"/>
-    <file name="untitled-13.css" crc="535756777" ref="untitled-13"/>
-    <file name="untitled-7.css" crc="535756777" ref="untitled-7"/>
-    <file name="apj-bio.css" crc="3887726573" ref="apj-bio"/>
-    <file name="untitled-14.css" crc="535756777" ref="untitled-14"/>
+    <file name="untitled-11.css" crc="488104655" ref="untitled-11"/>
+    <file name="untitled-5.css" crc="488104655" ref="untitled-5"/>
+    <file name="untitled-17.css" crc="488104655" ref="untitled-17"/>
+    <file name="untitled-12.css" crc="488104655" ref="untitled-12"/>
+    <file name="untitled-6.css" crc="488104655" ref="untitled-6"/>
+    <file name="index.css" crc="4194234368" ref="index"/>
+    <file name="untitled-13.css" crc="488104655" ref="untitled-13"/>
+    <file name="untitled-7.css" crc="488104655" ref="untitled-7"/>
+    <file name="apj-bio.css" crc="4003892703" ref="apj-bio"/>
+    <file name="untitled-14.css" crc="488104655" ref="untitled-14"/>
     <file name="1.css" crc="4094998112" ref="1"/>
   </folder>
   <folder name="assets">
@@ -43,18 +43,18 @@
     <file name="require.js" crc="7928878" ref="index:apj-bio:untitled-3:untitled-4:untitled-5:untitled-6:untitled-7:apj-speeches:apj-quotes:untitled-10:untitled-11:untitled-12:untitled-13:untitled-14:untitled-15:untitled-16:untitled-17:2:1"/>
   </folder>
   <folder name="images">
-    <file name="back.png" crc="4217791573" seo="true" ref="apj-bio:untitled-4:untitled-5:untitled-6:untitled-7:apj-speeches:apj-quotes:untitled-10:untitled-11:untitled-12:untitled-13:untitled-14:untitled-15:untitled-16:untitled-17">
+    <file name="back.png" crc="4217791573" seo="true" ref="apj-bio:untitled-4:untitled-5:untitled-6:untitled-7:apj-speeches:apj-quotes:untitled-10:untitled-11:untitled-12:untitled-13:untitled-14:untitled-15:untitled-16:untitled-17:index">
       <caption webpage="untitled-10" alt=""/>
       <caption webpage="apj-bio" alt=""/>
       <caption webpage="untitled-16" alt=""/>
       <caption webpage="untitled-3" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="apj-quotes" alt=""/>
-      <caption webpage="untitled-5" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
       <caption webpage="untitled-4" alt=""/>
       <caption webpage="untitled-11" alt=""/>
       <caption webpage="apj-speeches" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="untitled-5" alt=""/>
       <caption webpage="untitled-6" alt=""/>
       <caption webpage="untitled-13" alt=""/>
       <caption webpage="untitled-14" alt=""/>
@@ -78,8 +78,9 @@
     <file name="che-guevara-quotes.jpg" crc="3789973247" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="images.jpg" crc="141029800" seo="true" ref="index">
+    <file name="images.jpg" crc="141029800" seo="true" ref="index:apj-bio">
       <caption webpage="index" alt=""/>
+      <caption webpage="apj-bio" alt=""/>
     </file>
     <file name="inspiring-gandhi-quotes-live-learn.jpg" crc="499192482" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -124,18 +125,18 @@
     <file name="119505258-resize-56a48cf15f9b58b7d0d78193.jpg" crc="4270091175" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="webpnet-resizeimage (2).png" crc="4014165106" seo="true" ref="apj-bio:untitled-4:untitled-5:untitled-6:untitled-7:apj-speeches:apj-quotes:untitled-10:untitled-11:untitled-12:untitled-13:untitled-14:untitled-15:untitled-16:untitled-17">
+    <file name="webpnet-resizeimage (2).png" crc="4014165106" seo="true" ref="apj-bio:untitled-4:untitled-5:untitled-6:untitled-7:apj-speeches:apj-quotes:untitled-10:untitled-11:untitled-12:untitled-13:untitled-14:untitled-15:untitled-16:untitled-17:index">
       <caption webpage="untitled-10" alt=""/>
       <caption webpage="apj-bio" alt=""/>
       <caption webpage="untitled-16" alt=""/>
       <caption webpage="untitled-3" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="apj-quotes" alt=""/>
-      <caption webpage="untitled-5" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
       <caption webpage="untitled-4" alt=""/>
       <caption webpage="untitled-11" alt=""/>
       <caption webpage="apj-speeches" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="untitled-5" alt=""/>
       <caption webpage="untitled-6" alt=""/>
       <caption webpage="untitled-13" alt=""/>
       <caption webpage="untitled-14" alt=""/>
@@ -147,9 +148,6 @@
       <caption webpage="apj-bio" alt=""/>
     </file>
     <file name="abdul_kalam_quotes.jpg" crc="114916054" ref="apj-bio">
-      <caption webpage="apj-bio" alt=""/>
-    </file>
-    <file name="images2.jpg" crc="4025584290" seo="true" ref="apj-bio">
       <caption webpage="apj-bio" alt=""/>
     </file>
     <file name="51agcruw10l.jpg" crc="258715384" seo="true" ref="apj-bio">
@@ -179,23 +177,23 @@
       <caption webpage="untitled-18" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4123770381" seo="true" mt="1538981183931" redirect="true"/>
-  <file name="apj-bio.html" crc="73297593" seo="true" mt="1538981292939" redirect="true"/>
+  <file name="index.html" crc="4033326152" seo="true" mt="1538982499166" redirect="true"/>
+  <file name="apj-bio.html" crc="4227560159" seo="true" mt="1538982463784" redirect="true"/>
   <file name="untitled-3.html" crc="4018383437" seo="true" mt="1538980948529" redirect="false"/>
-  <file name="untitled-4.html" crc="528837296" seo="true" mt="1538980469380" redirect="true"/>
-  <file name="untitled-5.html" crc="68049553" seo="true" mt="1538980469380" redirect="true"/>
-  <file name="untitled-6.html" crc="4091677875" seo="true" mt="1538980469380" redirect="true"/>
-  <file name="untitled-7.html" crc="3899210898" seo="true" mt="1538980469380" redirect="true"/>
-  <file name="apj-speeches.html" crc="4225817697" seo="true" mt="1538980469380" redirect="true"/>
-  <file name="apj-quotes.html" crc="4216218662" seo="true" mt="1538980469380" redirect="true"/>
-  <file name="untitled-10.html" crc="3819268372" seo="true" mt="1538980469380" redirect="true"/>
-  <file name="untitled-11.html" crc="365650637" seo="true" mt="1538980469380" redirect="true"/>
-  <file name="untitled-12.html" crc="259620518" seo="true" mt="1538980469380" redirect="true"/>
-  <file name="untitled-13.html" crc="4179064191" seo="true" mt="1538980469380" redirect="true"/>
-  <file name="untitled-14.html" crc="3781967921" seo="true" mt="1538980469380" redirect="true"/>
-  <file name="untitled-15.html" crc="386026472" seo="true" mt="1538980469380" redirect="true"/>
-  <file name="untitled-16.html" crc="229660547" seo="true" mt="1538980469380" redirect="true"/>
-  <file name="untitled-17.html" crc="4225653850" seo="true" mt="1538980469380" redirect="true"/>
+  <file name="untitled-4.html" crc="3966385686" seo="true" mt="1538982463784" redirect="true"/>
+  <file name="untitled-5.html" crc="4158721591" seo="true" mt="1538982463784" redirect="true"/>
+  <file name="untitled-6.html" crc="874517" seo="true" mt="1538982463784" redirect="true"/>
+  <file name="untitled-7.html" crc="461793332" seo="true" mt="1538982463784" redirect="true"/>
+  <file name="apj-speeches.html" crc="322747582" seo="true" mt="1538982463784" redirect="true"/>
+  <file name="apj-quotes.html" crc="509939468" seo="true" mt="1538982463784" redirect="true"/>
+  <file name="untitled-10.html" crc="257490740" seo="true" mt="1538982463784" redirect="true"/>
+  <file name="untitled-11.html" crc="4181128429" seo="true" mt="1538982463784" redirect="true"/>
+  <file name="untitled-12.html" crc="3817138310" seo="true" mt="1538982463784" redirect="true"/>
+  <file name="untitled-13.html" crc="367715167" seo="true" mt="1538982463784" redirect="true"/>
+  <file name="untitled-14.html" crc="227661329" seo="true" mt="1538982463784" redirect="true"/>
+  <file name="untitled-15.html" crc="4227849672" seo="true" mt="1538982463784" redirect="true"/>
+  <file name="untitled-16.html" crc="3779969443" seo="true" mt="1538982463784" redirect="true"/>
+  <file name="untitled-17.html" crc="388221562" seo="true" mt="1538982463784" redirect="true"/>
   <file name="2.html" crc="4272500270" seo="true" mt="1538920447392" redirect="true"/>
   <file name="1.html" crc="160835689" seo="true" mt="1538982028242" redirect="true"/>
 </manifest>

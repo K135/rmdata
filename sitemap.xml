@@ -6,6 +6,9 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
+      <image:loc>http://hjhj.com/images/back.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://hjhj.com/images/04-abraham-lincoln-quotes_58f1ac86e14eb-crop-u315.jpg</image:loc>
     </image:image>
     <image:image>
@@ -40,6 +43,9 @@
     </image:image>
     <image:image>
       <image:loc>http://hjhj.com/images/quotation-helen-keller-the-best-and-most-beautiful-things-in-the-world-cannot-15-50-06.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hjhj.com/images/webpnet-resizeimage%20(2).png</image:loc>
     </image:image>
   </url>
   <url>
@@ -84,13 +90,13 @@
       <image:loc>http://hjhj.com/images/back.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://hjhj.com/images/images.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://hjhj.com/images/webpnet-resizeimage%20(2).png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://hjhj.com/images/screenshot-wwwgooglecoin-20181007-21-56-19.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hjhj.com/images/images2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://hjhj.com/images/51agcruw10l.jpg</image:loc>
