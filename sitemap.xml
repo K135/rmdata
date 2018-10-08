@@ -18,9 +18,6 @@
       <image:loc>http://hjhj.com/images/che-guevara-quotes.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hjhj.com/images/images.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://hjhj.com/images/inspiring-gandhi-quotes-live-learn.jpg</image:loc>
     </image:image>
     <image:image>
@@ -82,9 +79,6 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://hjhj.com/images/back.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hjhj.com/images/images.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://hjhj.com/images/webpnet-resizeimage%20(2).png</image:loc>
