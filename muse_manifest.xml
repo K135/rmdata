@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hjhj.com" resolutions="1x" timestamp="1538983289387">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hjhj.com" resolutions="1x" timestamp="1538983906137">
   <folder name="css">
     <file name="site_global.css" crc="343739609"/>
     <file name="master_b-master.css" crc="491528086" ref="2:1"/>
@@ -10,7 +10,7 @@
     <file name="untitled-4.css" crc="488104655" ref="untitled-4"/>
     <file name="untitled-10.css" crc="488104655" ref="untitled-10"/>
     <file name="untitled-16.css" crc="488104655" ref="untitled-16"/>
-    <file name="2.css" crc="3778995114" ref="2"/>
+    <file name="2.css" crc="4051801899" ref="2"/>
     <file name="untitled-11.css" crc="488104655" ref="untitled-11"/>
     <file name="untitled-5.css" crc="488104655" ref="untitled-5"/>
     <file name="untitled-17.css" crc="488104655" ref="untitled-17"/>
@@ -19,9 +19,9 @@
     <file name="index.css" crc="3942836441" ref="index"/>
     <file name="untitled-13.css" crc="488104655" ref="untitled-13"/>
     <file name="untitled-7.css" crc="488104655" ref="untitled-7"/>
-    <file name="apj-bio.css" crc="122127056" ref="apj-bio"/>
+    <file name="apj-bio.css" crc="20579763" ref="apj-bio"/>
     <file name="untitled-14.css" crc="488104655" ref="untitled-14"/>
-    <file name="1.css" crc="4094998112" ref="1"/>
+    <file name="1.css" crc="3796379260" ref="1"/>
   </folder>
   <folder name="assets">
     <file name="dtafalonso-android-lollipop-downloads.ico" crc="424263843" seo="true" mt="1538919036000"/>
@@ -47,20 +47,20 @@
       <caption webpage="untitled-10" alt=""/>
       <caption webpage="apj-bio" alt=""/>
       <caption webpage="untitled-16" alt=""/>
-      <caption webpage="untitled-17" alt=""/>
       <caption webpage="untitled-3" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="untitled-15" alt=""/>
+      <caption webpage="apj-quotes" alt=""/>
       <caption webpage="untitled-5" alt=""/>
       <caption webpage="untitled-4" alt=""/>
       <caption webpage="untitled-11" alt=""/>
       <caption webpage="apj-speeches" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
       <caption webpage="untitled-6" alt=""/>
       <caption webpage="untitled-13" alt=""/>
       <caption webpage="untitled-14" alt=""/>
       <caption webpage="untitled-12" alt=""/>
-      <caption webpage="apj-quotes" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="untitled-15" alt=""/>
+      <caption webpage="untitled-17" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="1002570_257966757684668_1635537588_n.jpg" crc="463085760" seo="true" ref="index">
@@ -75,7 +75,7 @@
     <file name="che-guevara-quotes.jpg" crc="3789973247" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="images.jpg" crc="141029800" ref="index:apj-bio" seo="true">
+    <file name="images.jpg" crc="141029800" ref="index" seo="true">
       <caption webpage="index" alt=""/>
       <caption webpage="apj-bio" alt=""/>
     </file>
@@ -123,20 +123,20 @@
       <caption webpage="untitled-10" alt=""/>
       <caption webpage="apj-bio" alt=""/>
       <caption webpage="untitled-16" alt=""/>
+      <caption webpage="untitled-17" alt=""/>
       <caption webpage="untitled-3" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="apj-quotes" alt=""/>
-      <caption webpage="untitled-5" alt=""/>
+      <caption webpage="untitled-15" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
       <caption webpage="untitled-4" alt=""/>
       <caption webpage="untitled-11" alt=""/>
       <caption webpage="apj-speeches" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
       <caption webpage="untitled-6" alt=""/>
       <caption webpage="untitled-13" alt=""/>
       <caption webpage="untitled-14" alt=""/>
       <caption webpage="untitled-12" alt=""/>
-      <caption webpage="untitled-15" alt=""/>
-      <caption webpage="untitled-17" alt=""/>
+      <caption webpage="apj-quotes" alt=""/>
+      <caption webpage="untitled-5" alt=""/>
     </file>
     <file name="screenshot-wwwgooglecoin-20181007-21-56-19.jpg" crc="3878039934" seo="true" ref="apj-bio">
       <caption webpage="apj-bio" alt=""/>
@@ -176,9 +176,12 @@
     <file name="maxresdefault.jpg" crc="3914815167" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="apj book.jpg" crc="4025584290" seo="true" ref="apj-bio">
+      <caption webpage="apj-bio" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="4165706797" seo="true" mt="1538983231108" redirect="true"/>
-  <file name="apj-bio.html" crc="452934478" seo="true" mt="1538982997020" redirect="true"/>
+  <file name="apj-bio.html" crc="4184966126" seo="true" mt="1538983870775" redirect="true"/>
   <file name="untitled-3.html" crc="4018383437" seo="true" mt="1538980948529" redirect="false"/>
   <file name="untitled-4.html" crc="3966385686" seo="true" mt="1538982463784" redirect="true"/>
   <file name="untitled-5.html" crc="4158721591" seo="true" mt="1538982463784" redirect="true"/>
@@ -194,6 +197,6 @@
   <file name="untitled-15.html" crc="4227849672" seo="true" mt="1538982463784" redirect="true"/>
   <file name="untitled-16.html" crc="3779969443" seo="true" mt="1538982463784" redirect="true"/>
   <file name="untitled-17.html" crc="388221562" seo="true" mt="1538982463784" redirect="true"/>
-  <file name="2.html" crc="4272500270" seo="true" mt="1538920447392" redirect="true"/>
-  <file name="1.html" crc="160835689" seo="true" mt="1538982028242" redirect="true"/>
+  <file name="2.html" crc="501988270" seo="true" mt="1538983897639" redirect="true"/>
+  <file name="1.html" crc="3889022320" seo="true" mt="1538983383653" redirect="true"/>
 </manifest>

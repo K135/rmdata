@@ -71,7 +71,7 @@
   </url>
   <url>
     <loc>http://hjhj.com/2.html</loc>
-    <lastmod>2018-10-07</lastmod>
+    <lastmod>2018-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -87,9 +87,6 @@
       <image:loc>http://hjhj.com/images/back.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hjhj.com/images/images.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://hjhj.com/images/webpnet-resizeimage%20(2).png</image:loc>
     </image:image>
     <image:image>
@@ -97,6 +94,9 @@
     </image:image>
     <image:image>
       <image:loc>http://hjhj.com/images/51agcruw10l.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hjhj.com/images/apj%20book.jpg</image:loc>
     </image:image>
   </url>
   <url>
