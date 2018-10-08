@@ -6,12 +6,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://hjhj.com/images/back.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hjhj.com/images/04-abraham-lincoln-quotes_58f1ac86e14eb-crop-u315.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://hjhj.com/images/1002570_257966757684668_1635537588_n.jpg</image:loc>
     </image:image>
     <image:image>
@@ -30,9 +24,6 @@
       <image:loc>http://hjhj.com/images/inspiring-gandhi-quotes-live-learn.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hjhj.com/images/maxresdefault-crop-u3457.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://hjhj.com/images/quotation-charlie-chaplin-my-pain-may-be-the-reason-for-somebody-s-laugh-46-55-61.jpg</image:loc>
     </image:image>
     <image:image>
@@ -45,7 +36,10 @@
       <image:loc>http://hjhj.com/images/quotation-helen-keller-the-best-and-most-beautiful-things-in-the-world-cannot-15-50-06.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hjhj.com/images/webpnet-resizeimage%20(2).png</image:loc>
+      <image:loc>http://hjhj.com/images/04-abraham-lincoln-quotes_58f1ac86e14eb.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hjhj.com/images/maxresdefault.jpg</image:loc>
     </image:image>
   </url>
   <url>
